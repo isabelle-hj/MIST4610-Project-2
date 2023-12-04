@@ -20,22 +20,31 @@ In terms of data types, this data set consists of 5 different data types. Serial
 
 # Question 1:
 
-# Question 2:
-
-**Question: What is the most expensive town to live in in Connecticut, and within that town, how do the different Residential Types rank in terms of Sale Amount?**
+**Does the assessed value of a property in Connecticut have a positive relationship with the sale amount listed for the property? In other words, can one use the assessed value of the property to estimate the sale amount?**
 
 Importance: 
 
-Depending on an individual’s spending budget, preferences for living standards (such as the quality of elementary schools in the area), and vision of lifestyle, and other personal preferences, he or she may want to live in the most expensive town in their state. 
+When an individual is house hunting, they may have to rely on Assessed Values of the property instead of Sale Amounts for the property. This can often be the case, especially for properties that have never been publicly sold before or properties that were sold a long, long time ago. If someone can use the assessed value of a property to estimate how much they would need to pay to own the house, they would have a much easier time making housing decisions. On the other hand, if the assessed values for properties in Connecticut are not positively related to the sale amount for the properties recorded in the data set, then an individual may have a harder time budgeting for paying for a house. 
+
+Analysis:
+
+# Question 2:
+
+**What is the most expensive town to live in in Connecticut, and within that town, how do the different Residential Types rank in terms of Sale Amount?**
+
+Importance: 
+
+Importance: Depending on an individual’s spending budget, preferences for living standards (such as the quality of elementary schools in the area), and vision of lifestyle, and other personal preferences, he or she may want to live in the most expensive town in their state. 
 On the other hand, many individuals may be hesitant to settle down in a town where the property value is much higher than surrounding towns. They might take factors such as high property taxes and cost of living into account when deciding where to settle down. In this case, an individual would avoid living in the town with the highest average Sale Amount value. 
- 
-After figuring out which city has the highest average Sale Amount, an individual may want to compare the average Sale Amounts for each type of Residential Type. For example, a mom with a spouse and no kids may want to budget according to the data provided for Residential Type. The category for this hypothetical would most closely resemble the Two Family type in the Residential Type column. 
+
+After figuring out which city has the highest average Sale Amount, an individual may want to compare the average Sale Amounts for each type of Residential Type, also based on preferences, income, and other factors that the individual wants to consider. For example, a family that earns a lower amount of income may want to reside in a less expensive multi-family home (Two - Four Family Home) in order to have their needs met for their jobs, their schooling, or other residents in the home. Contrarily, a family that is better well-off in terms of income and has the resources to provide for their family without a problem may opt for a more expensive Single Family home since they have the ability to do so. 
 
 Analysis: 
 
-<img width="620" alt="Screenshot 2023-12-04 at 12 51 31 PM" src="https://github.com/isabelle-hj/MIST4610-Project-2/assets/148258434/9dc4f581-1059-4d1f-941e-36128dc83e34">
+<img width="626" alt="Screenshot 2023-12-04 at 1 16 24 PM" src="https://github.com/isabelle-hj/MIST4610-Project-2/assets/148258434/5a32f7df-f61c-4fca-8297-ec68ebc3dcb8">
 
-<img width="305" alt="Screenshot 2023-12-04 at 12 52 08 PM" src="https://github.com/isabelle-hj/MIST4610-Project-2/assets/148258434/114a3055-b030-419c-8e98-69275f57f88c">
+
+<img width="384" alt="Screenshot 2023-12-04 at 1 17 12 PM" src="https://github.com/isabelle-hj/MIST4610-Project-2/assets/148258434/f222af04-bfaf-4f0e-8ae7-fc650577f37e">
 
 
 # Manipulations:
