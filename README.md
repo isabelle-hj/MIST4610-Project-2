@@ -28,7 +28,7 @@ Importance:
 
 Depending on an individual’s spending budget, preferences for living standards (such as the quality of elementary schools in the area), and vision of lifestyle, and other personal preferences, he or she may want to live in the most expensive town in their state. 
 On the other hand, many individuals may be hesitant to settle down in a town where the property value is much higher than surrounding towns. They might take factors such as high property taxes and cost of living into account when deciding where to settle down. In this case, an individual would avoid living in the town with the highest average Sale Amount value. 
-
+ 
 After figuring out which city has the highest average Sale Amount, an individual may want to compare the average Sale Amounts for each type of Residential Type. For example, a mom with a spouse and no kids may want to budget according to the data provided for Residential Type. The category for this hypothetical would most closely resemble the Two Family type in the Residential Type column. 
 
 Analysis: 
