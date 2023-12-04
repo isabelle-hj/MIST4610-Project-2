@@ -22,8 +22,22 @@ In terms of data types, this data set consists of 5 different data types. Serial
 
 # Question 2:
 
-# Manipulations:
+**Question: What is the most expensive town to live in in Connecticut, and within that town, how do the different Residential Types rank in terms of Sale Amount?**
 
-# Analysis:
+Importance: 
+
+Depending on an individual’s spending budget, preferences for living standards (such as the quality of elementary schools in the area), and vision of lifestyle, and other personal preferences, he or she may want to live in the most expensive town in their state. 
+On the other hand, many individuals may be hesitant to settle down in a town where the property value is much higher than surrounding towns. They might take factors such as high property taxes and cost of living into account when deciding where to settle down. In this case, an individual would avoid living in the town with the highest average Sale Amount value. 
+
+After figuring out which city has the highest average Sale Amount, an individual may want to compare the average Sale Amounts for each type of Residential Type. For example, a mom with a spouse and no kids may want to budget according to the data provided for Residential Type. The category for this hypothetical would most closely resemble the Two Family type in the Residential Type column. 
+
+Analysis: 
+
+<img width="620" alt="Screenshot 2023-12-04 at 12 51 31 PM" src="https://github.com/isabelle-hj/MIST4610-Project-2/assets/148258434/9dc4f581-1059-4d1f-941e-36128dc83e34">
+
+<img width="305" alt="Screenshot 2023-12-04 at 12 52 08 PM" src="https://github.com/isabelle-hj/MIST4610-Project-2/assets/148258434/114a3055-b030-419c-8e98-69275f57f88c">
+
+
+# Manipulations:
 
 # Tableau Workbook:
